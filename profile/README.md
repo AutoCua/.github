@@ -18,7 +18,7 @@
 <table><tr><td>
 
 ```bash
-pip install AutoCua
+pip install AutoCua        
 ```
 
 </td></tr></table>
