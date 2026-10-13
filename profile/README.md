@@ -16,11 +16,7 @@
 [![Models](https://img.shields.io/badge/models-48%20across%209%20providers-7048e8)](https://github.com/AutoCua/AutoCua/blob/main/README.md#providers-and-models)
 
 <table><tr><td width="280">
-
-```bash
-pip install AutoCua
-```
-
+<pre>pip install AutoCua</pre>
 </td></tr></table>
 
 | | Windows | Linux | macOS |
